@@ -6,5 +6,5 @@ install eslint-config-react-app ("npm install eslint-config-react-app")
 
 # To run the game
 - go to the dir tictactoe with cd [..\..]  
-- run; npm install  
-- run; npm start
+- run: npm install  
+- run: npm start
